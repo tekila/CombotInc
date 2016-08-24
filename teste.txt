@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hue hue hue
 ~dsfasfdasdfasdfasdfasdf
+=======
+//várias modificações
+
+LELELE
+LOLOOL
+LULULU
+
+hue hue hue
+>>>>>>> 0811e7c6dcce3d8f75ed61d4f090fb6bc6dd0f67
