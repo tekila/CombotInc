@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombotSimulator.CSharp.Plugins", "CombotSimulator.CSharp.Plugins.csproj", "{0B156CAD-C037-8EBD-D0C9-565E85D5C31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombotSimulator.CSharp", "CombotSimulator.CSharp.csproj", "{A70C2435-7C8C-4528-FEFE-F442663860D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombotSimulator.CSharp.Editor", "CombotSimulator.CSharp.Editor.csproj", "{4A5E64A1-94BF-C7E7-F5B5-2ED810DA3C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B156CAD-C037-8EBD-D0C9-565E85D5C31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B156CAD-C037-8EBD-D0C9-565E85D5C31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B156CAD-C037-8EBD-D0C9-565E85D5C31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B156CAD-C037-8EBD-D0C9-565E85D5C31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70C2435-7C8C-4528-FEFE-F442663860D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70C2435-7C8C-4528-FEFE-F442663860D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70C2435-7C8C-4528-FEFE-F442663860D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70C2435-7C8C-4528-FEFE-F442663860D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5E64A1-94BF-C7E7-F5B5-2ED810DA3C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5E64A1-94BF-C7E7-F5B5-2ED810DA3C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5E64A1-94BF-C7E7-F5B5-2ED810DA3C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5E64A1-94BF-C7E7-F5B5-2ED810DA3C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
